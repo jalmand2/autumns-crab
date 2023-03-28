@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: black;
+  /* background-color: black; */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +35,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+.text-format {
+  background-color: black;
 }
